@@ -1,0 +1,6 @@
+task1:
+python -c 'import sender; sender.main("HELLO FROM SENDER 1",3,2,1)'    to run sender
+
+task2:
+python -c 'import sender_22; sender_22.main("hello from sender 1",0)'    to run sender_22
+python -c 'import sender_22; sender_22.main("HELLO FROM SENDER 2",1)'    to run sender_22
